@@ -1,4 +1,4 @@
-# sem-defect-classification
+# Sem-Precursor cathode active material defect-classification
 # SEM Image Analysis
 
 This repository showcases a typical workflow for analyzing Scanning Electron Microscope (SEM) images, including defect detection, particle segmentation, and statistical visualization.This code is specialized for precursor NMC particle feature analysis. 
