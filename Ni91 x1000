@@ -19,18 +19,6 @@ kernel = np.ones((3, 3), np.uint8)
 binary = cv.morphologyEx(binary, cv.MORPH_OPEN, kernel, iterations=2)
 binary = cv.erode(binary, kernel, iterations=1)
 
-
-# # Optional: suppress edges to help watershed boundaries
-# edges = cv.Canny(gray, 80, 180)
-# # binary[edges > 0] = 0
-# binary[edges > 0] = binary[edges > 0] // 6 # Dampen instead of zeroing
-# Compute hybrid gradient (Sobel + weighted Canny)
-# grad_x = cv.Sobel(gray, cv.CV_64F, 1, 0, ksize=3)
-# grad_y = cv.Sobel(gray, cv.CV_64F, 0, 1, ksize=3)
-# gradient = cv.magnitude(grad_x, grad_y)
-# gradient = gradient + (edges.astype(np.float64) * 1.0)
-# gradient = cv.normalize(gradient, None, 0, 255, cv.NORM_MINMAX).astype(np.uint8)
-
 # Distance transform
 dist_transform = cv.distanceTransform(binary, cv.DIST_L2, 5)
 
