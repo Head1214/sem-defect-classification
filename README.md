@@ -13,11 +13,15 @@ SEM images provide detailed surface morphology information critical for material
 - Example code using Python (OpenCV, scikit-image)
 
 > ⚠️ **Disclaimer:** The images used here are either simulated or anonymized for demonstration purposes. Please ensure you comply with your organization’s data sharing policies before using real SEM data.
-
+## 💡 Testing image(Simulate by Chatgpt)
+![ChatGPT](https://github.com/user-attachments/assets/8e046299-5563-4180-a6b2-d19f5d3edd00)
+> 
 ## 💡 Final result present
-![P250528G age 24h](https://github.com/user-attachments/assets/5e27923b-1e98-4106-9ddd-73480e494f78)
+![ChatGpt](https://github.com/user-attachments/assets/dfa5d2af-08c0-4fbb-a82e-d714646158ed)
+
 # Cross section porosity measurement 
-![X section porosity measurement](https://github.com/user-attachments/assets/a61f0a2c-a741-4382-9e86-fc9d541e0450)
+![ChatGPT XS](https://github.com/user-attachments/assets/19255a05-f379-4370-a77a-50908ba6a540)
+
 
 
 
