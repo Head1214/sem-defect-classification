@@ -13,8 +13,10 @@ SEM images provide detailed surface morphology information critical for material
 - Example code using Python (OpenCV, scikit-image)
 
 > ⚠️ **Disclaimer:** The images used here are either simulated or anonymized for demonstration purposes. Please ensure you comply with your organization’s data sharing policies before using real SEM data.
-## 💡 Testing image(Simulate by Chatgpt)
+## 💡 Testing images (Simulate by Chatgpt)
 ![ChatGPT](https://github.com/user-attachments/assets/8e046299-5563-4180-a6b2-d19f5d3edd00)
+![ChatGPT XS](https://github.com/user-attachments/assets/6033c606-051c-4952-9a32-6f4f837a6ab7)
+
 > 
 ## 💡 Final result present
 ![ChatGpt](https://github.com/user-attachments/assets/dfa5d2af-08c0-4fbb-a82e-d714646158ed)
