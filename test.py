@@ -43,10 +43,7 @@ print(f"Contours after watershed segmentation: {len(contours)}")
 
 # Pixel to micrometer ratio
 pixel_to_micrometer = 0.0253
-# pixel_to_micrometer = 0.2747
-# pixel_to_micrometer = 0.1315
-# pixel_to_micrometer = 0.9090
-# pixel_to_micrometer = 0.537 500x
+
 
 # Create directories
 particle_dir = "ChatGPT_particle"
