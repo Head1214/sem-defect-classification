@@ -15,7 +15,9 @@ SEM images provide detailed surface morphology information critical for material
 > ⚠️ **Disclaimer:** The images used here are either simulated or anonymized for demonstration purposes. Please ensure you comply with your organization’s data sharing policies before using real SEM data.
 ## 💡 Testing images (Simulate by Chatgpt)
 ![ChatGPT](https://github.com/user-attachments/assets/8e046299-5563-4180-a6b2-d19f5d3edd00)
-![ChatGPT XS](https://github.com/user-attachments/assets/6033c606-051c-4952-9a32-6f4f837a6ab7)
+##Crosssection image simulated image 
+<img width="1024" height="1024" alt="ChatGPT xs2" src="https://github.com/user-attachments/assets/1d0c8674-9ed2-456e-9082-14ffd08a9d80" />
+
 
 > 
 ## 💡 Final result present
